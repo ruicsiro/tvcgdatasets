@@ -14,6 +14,7 @@ authors:
     given-names: Rui
     affiliation: "CSIRO, Melbourne, Australia"
     email: r.wang@data61.csiro.au
+    orcid: "https://orcid.org/0000-0002-6600-6937"
   - family-names: Delaney
     given-names: Gary
     affiliation: "CSIRO, Melbourne, Australia"
@@ -41,6 +42,7 @@ preferred-citation:
       given-names: Danni
     - family-names: Wang
       given-names: Rui
+      orcid: "https://orcid.org/0000-0002-6600-6937"
     - family-names: Delaney
       given-names: Gary
     - family-names: Thomas
