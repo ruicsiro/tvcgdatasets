@@ -82,7 +82,16 @@ duplicate copy of the texture were left out of this repository for size.
 - **Data** (`*.csv`, `*.xlsx`, meshes and textures under `study_data/`) — CC BY 4.0, see
   [`LICENSE-DATA`](LICENSE-DATA).
 
-If you use this material, please cite the paper above.
+If you use this material, please cite the paper above. Machine-readable citation metadata is in
+[`CITATION.cff`](CITATION.cff); Zenodo deposition metadata is in `.zenodo.json`.
+
+## DOI
+
+<!-- After the first Zenodo release, replace this block with the badge Zenodo provides:
+     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+     Use the *concept* DOI (the one that always resolves to the latest version) in the paper. -->
+
+A DOI is being minted via Zenodo; it will appear here and in the paper once issued.
 
 ## Ethics
 

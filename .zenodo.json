@@ -1,0 +1,42 @@
+{
+  "title": "Data and analysis scripts: Comparing XR and Desktop Interfaces for Shape-Form Estimation and Manipulation in a Scientific Context",
+  "upload_type": "dataset",
+  "description": "<p>Supporting material for the manuscript <em>Comparing XR and Desktop Interfaces for Shape-Form Estimation and Manipulation in a Scientific Context</em>, submitted to IEEE Transactions on Visualization and Computer Graphics.</p><p>Three between-subjects experiments (N = 64; domain experts and novices) comparing an immersive XR interface against a conventional desktop interface for interactive superquadric shape estimation, in a task context drawn from a soft-robotic jamming-gripper design workflow.</p><p>Contents: a de-identified per-participant dataset (64 &times; 112); an analysis script reproducing the reported expertise-by-interface interaction tests via aligned rank transform; an independent reimplementation of the Barr normalised implicit distance with its validation against meshes of known parameters; and the study stimuli and derived result workbooks.</p><p>De-identification: participants are identified only by a pseudonymous ID, age is released in bands rather than exact years, and free-text response columns have been removed. The raw participant workbook is not included.</p><p>Licensing is split: the analysis code is released under the MIT licence, and the data, meshes and textures under CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Liu, Danni",
+      "affiliation": "CSIRO, Melbourne, Australia; Swinburne University of Technology, Hawthorn, VIC, Australia"
+    },
+    {
+      "name": "Wang, Rui",
+      "affiliation": "CSIRO, Melbourne, Australia"
+    },
+    {
+      "name": "Delaney, Gary",
+      "affiliation": "CSIRO, Melbourne, Australia"
+    },
+    {
+      "name": "Thomas, Bruce H.",
+      "affiliation": "IVE: the Australian Research Centre for Interactive and Virtual Environments, Adelaide University, Mawson Lakes, SA, Australia"
+    },
+    {
+      "name": "Zhang, Jun",
+      "affiliation": "Swinburne University of Technology, Hawthorn, VIC, Australia"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "extended reality",
+    "augmented reality",
+    "shape matching",
+    "superquadrics",
+    "scientific visualisation",
+    "user study",
+    "granular materials",
+    "soft robotics",
+    "human-computer interaction"
+  ],
+  "notes": "Analysis code is licensed MIT; data, meshes and textures are licensed CC BY 4.0. Ethics approval was granted by the human research ethics committees of Swinburne University of Technology and CSIRO prior to recruitment and data collection; all participants gave written informed consent."
+}

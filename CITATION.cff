@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper it supports."
+title: "Data and analysis scripts: Comparing XR and Desktop Interfaces for Shape-Form Estimation and Manipulation in a Scientific Context"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Liu
+    given-names: Danni
+    affiliation: "CSIRO, Melbourne, Australia"
+  - family-names: Wang
+    given-names: Rui
+    affiliation: "CSIRO, Melbourne, Australia"
+    email: r.wang@data61.csiro.au
+  - family-names: Delaney
+    given-names: Gary
+    affiliation: "CSIRO, Melbourne, Australia"
+  - family-names: Thomas
+    given-names: Bruce H.
+    affiliation: "Adelaide University, Mawson Lakes, SA, Australia"
+  - family-names: Zhang
+    given-names: Jun
+    affiliation: "Swinburne University of Technology, Hawthorn, VIC, Australia"
+keywords:
+  - extended reality
+  - augmented reality
+  - shape matching
+  - superquadrics
+  - scientific visualisation
+  - user study
+preferred-citation:
+  type: article
+  title: "Comparing XR and Desktop Interfaces for Shape-Form Estimation and Manipulation in a Scientific Context"
+  journal: "IEEE Transactions on Visualization and Computer Graphics"
+  year: 2026
+  notes: "Submitted."
+  authors:
+    - family-names: Liu
+      given-names: Danni
+    - family-names: Wang
+      given-names: Rui
+    - family-names: Delaney
+      given-names: Gary
+    - family-names: Thomas
+      given-names: Bruce H.
+    - family-names: Zhang
+      given-names: Jun
