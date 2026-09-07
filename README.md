@@ -87,11 +87,14 @@ If you use this material, please cite the paper above. Machine-readable citation
 
 ## DOI
 
-<!-- After the first Zenodo release, replace this block with the badge Zenodo provides:
-     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-     Use the *concept* DOI (the one that always resolves to the latest version) in the paper. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22642153.svg)](https://doi.org/10.5281/zenodo.22642153)
 
-A DOI is being minted via Zenodo; it will appear here and in the paper once issued.
+This repository is archived on Zenodo.
+
+| DOI | Resolves to |
+|---|---|
+| [`10.5281/zenodo.22642153`](https://doi.org/10.5281/zenodo.22642153) | always the latest version — **cite this one** |
+| [`10.5281/zenodo.22642154`](https://doi.org/10.5281/zenodo.22642154) | the `v1.0.0` snapshot specifically |
 
 ## Ethics
 

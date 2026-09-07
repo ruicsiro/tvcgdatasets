@@ -3,6 +3,9 @@ message: "If you use this material, please cite the paper it supports."
 title: "Data and analysis scripts: Comparing XR and Desktop Interfaces for Shape-Form Estimation and Manipulation in a Scientific Context"
 type: dataset
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22642153
+repository-code: "https://github.com/ruicsiro/tvcgdatasets"
+version: 1.0.0
 authors:
   - family-names: Liu
     given-names: Danni
